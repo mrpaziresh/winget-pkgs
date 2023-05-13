@@ -38,7 +38,7 @@ A few different tools are available to help you author a manifest.
 
 Now that you have authored your manifest, you should make sure it works as expected.
 
-> Note: You will need to run `winget settings --enable LocalManifestFiles` in an administrative shell before working with local manifests.
+> Note: You will need to run `winget settings --enable LocalManifestFiles` in an administrative shell before working with local manifests .
 
 ### Locally
 
